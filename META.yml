@@ -1,0 +1,10 @@
+name: lib-overlay
+version: 0.00_01
+abstract: Overlay additional code on module loading
+author: Autrijus Tang <autrijus@autrijus.org>
+license: perl
+distribution_type: module
+no_index:
+  directory:
+    - inc
+generated_by: Module::Install version 0.35
